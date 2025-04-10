@@ -176,18 +176,95 @@ Amazon MemoryDB for Redis - Overview
 
 Cuestionario 5: RDS, Aurora, & ElastiCache Quiz
 
-
 ## 6. Route 53
 
+What is a DNS?
 
+Route 53 Overview
 
+Route 53 - Registering a domain
 
+Route 53 - Creating our first records
 
-## Section: 
+Route 53 - EC2 Setup
 
+Route 53 - TTL
 
-## Section: 
+Route 53 CNAME vs Alias
 
+Routing Policy - Simple
+
+Routing Policy - Weighted
+
+Routing Policy - Latency
+
+Route 53 Health Checks
+
+Route 53 - Health Checks Hands On
+
+Routing Policy - Failover
+
+Routing Policy - Geolocation
+
+Routing Policy - Geoproximity
+
+Routing Policy - Traffic Flow & Geoproximity Hands On
+
+Routing Policy - IP-based
+
+Routing Policy - Multi Value
+
+3rd Party Domains & Route 53
+
+Route 53 - Section Cleanup
+
+Cuestionario 6: Route 53 Quiz
+
+## 7. VPC Fundamentals
+
+VPC Fundamentals - Section Introduction
+
+VPC, Subnets, IGW and NAT
+
+NACL, SG, VPC Flow Logs
+
+VPC Peering, Endpoints, VPN, DX
+
+VPC Cheat Sheet & Closing Comments
+
+Three Tier Architecture
+
+Cuestionario 7: VPC Quiz
+
+## 8. Amazon S3 Introduction 
+
+S3 Overview
+
+S3 Hands On
+
+S3 Security: Bucket Policy
+
+S3 Security: Bucket Policy Hands On
+
+S3 Website Overview
+
+S3 Website Hands On
+
+S3 Versioning
+
+S3 Versioning - Hands On
+
+S3 Replication
+
+S3 Replication Notes
+
+S3 Replication - Hands On
+
+S3 Storage Classes Overview
+
+S3 Storage Classes Hands On
+
+Cuestionario 8: Amazon S3 Quiz
 
 ## Section: 
 
