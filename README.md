@@ -8,6 +8,24 @@ a) AWS SDK for .NET
 
 b) .NET Aspire 9.2
 
+## Summary
+
+1. IAM and AWS CLI
+
+2. EC2 Fundamentals
+
+3. EC2 Instance Storage (Elastic Block Storage EBS, AMI, EFS)
+
+4. Elastic Load Balancers (ELB), AutoScaling Group (ASG)
+
+5. RDS, Aurora, ElastiCache
+
+6. Route 53
+
+7. VPC
+
+8. 
+
 ## 1. IAM and AWS CLI
 
 ### 1.1. IAM Introduction: Users, Groups, Policies
