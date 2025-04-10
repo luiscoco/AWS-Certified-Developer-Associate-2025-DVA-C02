@@ -34,7 +34,15 @@ b) .NET Aspire 9.2
 
 12. CloudFront
 
+13. ECS, ECR and Fargate – Docker in AWS
 
+14. Elastic Beanstalk
+
+15. AWS CloudFormation
+
+16. AWS Integration and Messaging: SQS, SNS and Kinesis
+
+17. AWS Monitoring and Audit: CloudWatch, X-Ray and CloudTrail
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -400,19 +408,118 @@ CloudFront - Real Time Logs
 
 Cuestionario 12: CloudFront Quiz
 
-## 13.
+## 13. ECS, ECR and Fargate – Docker in AWS
+
+Docker Introduction
+
+Amazon ECS
+
+IMPORTANT: ECS UI CHANGES
+
+Creating ECS Cluster - Hands On
+
+Creating ECS Service - Hands On
+
+Amazon ECS - Auto Scaling
+
+Amazon ECS - Rolling Updates
+
+Amazon ECS - Solutions Architectures
+
+Amazon ECS Task Definitions - Deep Dive
+
+Amazon ECS Task Definitions - Hands On
+
+Amazon ECS - Task Placements
+
+Amazon ECS - Clean Up - Hands On
+
+Amazon ECR
+
+Amazon ECR - Hands On
+
+AWS CoPilot - Overview
+
+AWS CoPilot - Hands On
+
+Amazon EKS
+
+Cuestionario 13: Containers on AWS Quiz
+
+## 14. Elastic Beanstalk
+
+AWS Elastic Beanstalk - Section Introduction
+
+Elastic Beanstalk Overview (High level)
+
+Beanstalk First Environment
+
+Beanstalk Second Environment
+
+Beanstalk Deployment Modes
+
+Beanstalk Deployment Modes Hands On
+
+Beanstalk CLI and Deployment Process
+
+Beanstalk Lifecycle Policy Overview + Hands On
+
+Beanstalk Extensions
+
+Beanstalk & CloudFormation
+
+Beanstalk Cloning
+
+Beanstalk Migrations
+
+Beanstalk Cleanup
+
+Cuestionario 14: Elastic Beanstalk Quiz
+
+## 15. AWS CloudFormation
+
+CloudFormation - Overview
+
+CloudFormation - Create Stack - Hands On
+
+CloudFormation - Update & Delete Stack - Hands On
+
+YAML Crash Course
+
+CloudFormation - Resources
+
+CloudFormation - Parameters
+
+CloudFormation - Mappings
+
+CloudFormation - Outputs & Exports
+
+CloudFormation - Conditions
+
+CloudFormation - Intrinsic Functions
+
+CloudFormation - Rollbacks
+
+CloudFormation - Service Role
+
+CloudFormation - Capabilities
+
+CloudFormation - Deletion Policy
+
+CloudFormation - Stack Policy
+
+CloudFormation - Termination Protection
+
+CloudFormation - Custom Resources
+
+CloudFormation - StackSets
+
+Cuestionario 15: CloudFormation Quiz
+
+## 16. AWS Integration and Messaging: SQS, SNS and Kinesis
 
 
-## 14.
-
-
-## 15.
-
-
-## 16.
-
-
-## 17.
+## 17. AWS Monitoring and Audit: CloudWatch, X-Ray and CloudTrail
 
 
 ## 18.
