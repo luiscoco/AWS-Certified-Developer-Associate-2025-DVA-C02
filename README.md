@@ -44,6 +44,13 @@ b) .NET Aspire 9.2
 
 17. AWS Monitoring and Audit: CloudWatch, X-Ray and CloudTrail
 
+18. AWS Serverless - Lambda
+
+19. AWS Serverless – Dynamo DB
+
+20. 
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -624,8 +631,145 @@ AWS Quick Clean-Up
 
 Cuestionario 17: Monitoring & Audit Quiz
 
-## 18.
+## 18. AWS Serverless - Lambda
 
+AWS Lambda - Section Introduction
+
+Serverless Introduction
+
+AWS Lambda Overview
+
+AWS Lambda - First Hands On
+
+Lambda Synchronous Invocations
+
+Lambda Synchronous Invocations Hands On
+
+Lambda & Application Load Balancer
+
+Lambda & Application Load Balancer Hands On
+
+Lambda Asynchronous Invocations & DLQ
+
+Lambda Asynchronous Invocations Hands On
+
+Lambda & CloudWatch Events / EventBridge
+
+Lambda & CloudWatch Events / EventBridge Hands On
+
+Lambda & S3 Event Notifications
+
+Lambda & S3 Event Notifications - Hands On
+
+Lambda Event Source Mapping
+
+Lambda Event Source Mapping Hands On (SQS)
+
+Lambda Event & Context Objects
+
+Lambda Destinations
+
+Lambda Destinations Hands On
+
+Lambda Permissions - IAM Roles & Resource Policies
+
+Lambda Permissions - IAM Roles & Resource Policies - Hands On
+
+Lambda Environment Variables
+
+Lambda Environment Variables - Hands On
+
+Lambda Monitoring & X-Ray Tracing
+
+Lambda Monitoring & X-Ray Tracing - Hands On
+
+Lambda@Edge & CloudFront Functions
+
+Lambda in VPC
+
+Lambda in VPC - Hands On
+
+Lambda Function Performance
+
+Lambda Function Performance - Hands On
+
+Lambda Layers
+
+Lambda Layers - Hands On
+
+Lambda File Systems Mounting
+
+Lambda Concurrency
+
+Lambda Concurrency Hands On
+
+Lambda External Dependencies
+
+Lambda External Dependencies - Hands On
+
+Lambda and CloudFormation
+
+Lambda and CloudFormation - Hands On
+
+Lambda Container Images
+
+Lambda Versions and Aliases
+
+Lambda Versions and Aliases - Hands On
+
+## 19. AWS Serverless – Dynamo DB
+
+DynamoDB - Section Introduction
+
+DynamoDB Overview
+
+DynamoDB Basics - Hands On
+
+DynamoDB WCU & RCU - Throughput
+
+DynamoDB WCU & RCU - Hands On
+
+DynamoDB - Basic Operations
+
+DynamoDB Basic APIs - Hands On
+
+DynamoDB - Conditional Writes
+
+DynamoDB Indexes (GSI + LSI)
+
+DynamoDB Indexes (GSI + LSI) - Hands On
+
+DynamoDB PartiQL
+
+DynamoDB Optimistic Locking
+
+DynamoDB DAX
+
+DynamoDB DAX - Hands On
+
+DynamoDB Streams
+
+DynamoDB Streams - Hands On
+
+DynamoDB TTL
+
+DynamoDB CLI
+
+DynamoDB Transactions
+
+DynamoDB Session State
+
+DynamoDB Partitioning Strategies
+
+DynamoDB Conditional Writes, Concurrent Writes & Atomic Writes
+
+DynamoDB Patterns with S3
+
+DynamoDB Operations
+
+DynamoDB Security & Other
+
+Cuestionario 19: DynamoDB Quiz
 
 
 
