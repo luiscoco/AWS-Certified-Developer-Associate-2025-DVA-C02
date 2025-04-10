@@ -296,29 +296,71 @@ Cuestionario 9: AWS IAM, CLI, & SDK Quiz
 
 ## 10. Advanced Amazon S3
 
+S3 Lifecycle Rules (with S3 Analytics)
 
-## 11.
+S3 Lifecycle Rules - Hands On
+
+S3 Event Notifications
+
+S3 Event Notifications - Hands On
+
+S3 Performance
+
+S3 Object Tags & Metadata
+
+Cuestionario 10: Amazon S3 Advanced Quiz
+
+## 11. Amazon S3 Security
+
+S3 Encryption
+
+About DSSE-KMS
+
+S3 Encryption - Hands On
+
+S3 Default Encryption
+
+S3 CORS
+
+S3 CORS Hands On
+
+S3 MFA Delete
+
+S3 MFA Delete Hands On
+
+S3 Access Logs
+
+S3 Access Logs - Hands On
+
+S3 Pre-signed URLs
+
+S3 Pre-signed URLs - Hands On
+
+S3 Access Points
+
+S3 Object Lambda
+
+Cuestionario 11: Amazon S3 Security Quiz
+
+## 12.
 
 
-## 11.
+## 13.
 
 
-## 11.
+## 14.
 
 
-## 11.
+## 15.
 
 
-## 11.
+## 16.
 
 
-## 11.
+## 17.
 
 
-## 11.
-
-
-## 11.
+## 18.
 
 
 
