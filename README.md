@@ -14,17 +14,31 @@ b) .NET Aspire 9.2
 
 2. EC2 Fundamentals
 
-3. EC2 Instance Storage (Elastic Block Storage EBS, AMI, EFS)
+3. EC2 Instance Storage (Elastic Block Storage EBS, Amazon Machine Image AMI, Elastic File System EFS)
 
 4. Elastic Load Balancers (ELB), AutoScaling Group (ASG)
 
-5. RDS, Aurora, ElastiCache
+5. Relational Database Service (RDS), Aurora, ElastiCache
 
 6. Route 53
 
-7. VPC
+7. Virtual Private Cloud (VPC)
 
-8. 
+8. Amazon Simple Storage Service (S3) 
+
+9. AWS CLI, SDK, IAM Roles and Policies
+
+10. Advanced S3
+
+11. S3 Security
+
+12. CloudFront
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 ## 1. IAM and AWS CLI
 
