@@ -2,7 +2,7 @@
 
 https://www.udemy.com/course/aws-certified-developer-associate-dva-c01
 
-**Note**: Let's try this Udemy course integrating the concepts with these two technologies:
+**NOTE**: Let's try this Udemy course integrating the concepts with these two technologies:
 
 a) AWS SDK for .NET
 
