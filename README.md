@@ -518,6 +518,50 @@ Cuestionario 15: CloudFormation Quiz
 
 ## 16. AWS Integration and Messaging: SQS, SNS and Kinesis
 
+AWS Integration & Messaging - Section Introduction
+
+Introduction to Messaging
+
+Amazon SQS - Standard Queues Overview
+
+SQS - Standard Queue Hands On
+
+SQS Queue Access Policy
+
+SQS - Message Visibility Timeout
+
+SQS - Dead Letter Queues
+
+SQS - Dead Letter Queues - Hands On
+
+SQS - Delay Queues
+
+SQS - Certified Developer concepts
+
+SQS - FIFO Queues
+
+SQS - FIFO Queues Advanced
+
+Amazon SNS
+
+Amazon SNS and SQS - Fan Out Pattern
+
+SNS Hands On
+
+Amazon Kinesis Data Streams
+
+Amazon Kinesis Data Streams - Hands On
+
+Amazon Data Firehose
+
+Amazon Data Firehose - Hands On
+
+Amazon Managed Service for Apache Flink
+
+SQS vs SNS vs Kinesis
+
+Cuestionario 16: Messaging & Integration Quiz
+
 
 ## 17. AWS Monitoring and Audit: CloudWatch, X-Ray and CloudTrail
 
