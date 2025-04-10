@@ -340,8 +340,33 @@ S3 Object Lambda
 
 Cuestionario 11: Amazon S3 Security Quiz
 
-## 12.
+## 12. CloudFront
 
+CloudFront - Overview
+
+CloudFront Hands On
+
+CloudFront - Caching & Caching Policies
+
+CloudFront - Cache Invalidations
+
+CloudFront - Cache Behaviors
+
+CloudFront - Caching & Caching Invalidations - Hands On
+
+CloudFront - ALB as an Origin
+
+CloudFront - Geo Restriction
+
+CloudFront Signed URL / Cookies
+
+CloudFront Signed URL - Key Groups + Hands On
+
+CloudFront Advanced Concepts
+
+CloudFront - Real Time Logs
+
+Cuestionario 12: CloudFront Quiz
 
 ## 13.
 
