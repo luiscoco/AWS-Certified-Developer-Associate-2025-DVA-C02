@@ -10,45 +10,45 @@ b) .NET Aspire 9.2
 
 ## 1. IAM and AWS CLI
 
-IAM Introduction: Users, Groups, Policies
+### 1.1. IAM Introduction: Users, Groups, Policies
 
-IAM Users & Groups Hands On
+### 1.2. IAM Users & Groups Hands On
 
-IAM Policies
+### 1.3. IAM Policies
 
-IAM Policies Hands On
+### 1.4. IAM Policies Hands On
 
-IAM MFA Overview
+### 1.5. IAM MFA Overview
 
-IAM MFA Hands On
+### 1.6. IAM MFA Hands On
 
-AWS Access Keys, CLI and SDK
+### 1.7. AWS Access Keys, CLI and SDK
 
-AWS CLI Setup on Windows
+### 1.8. AWS CLI Setup on Windows
 
-AWS CLI Setup on Mac OS X
+### 1.9. AWS CLI Setup on Mac OS X
 
-AWS CLI Setup on Linux
+### 1.10. AWS CLI Setup on Linux
 
-AWS CLI Hands On
+### 1.11. AWS CLI Hands On
 
-AWS CloudShell
+### 1.12. AWS CloudShell
 
-IAM Roles for AWS Services
+### 1.13. IAM Roles for AWS Services
 
-IAM Roles Hands On
+### 1.14. IAM Roles Hands On
 
-IAM Security Tools
+### 1.15. IAM Security Tools
 
-IAM Security Tools Hands On
+### 1.16. IAM Security Tools Hands On
 
-IAM Best Practices
+### 1.17. IAM Best Practices
 
-Shared Responsibility Model for IAM
+### 1.18. Shared Responsibility Model for IAM
 
-IAM Summary
+### 1.19. IAM Summary
 
-Cuestionario 1: IAM & AWS CLI Quiz
+### 1.20. Cuestionario 1: IAM & AWS CLI Quiz
 
 ## 2. EC2 Fundamentals 
 
