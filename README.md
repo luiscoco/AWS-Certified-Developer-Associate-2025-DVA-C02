@@ -150,10 +150,37 @@ Auto Scaling Groups - Instance Refresh
 
 Cuestionario 4: High Availability & Scalability Quiz
 
-## Section: 
+## 5. AWS Fundamentals RDS + Aurora + ElastiCache
+
+Amazon RDS Overview
+
+RDS Read Replicas vs Multi AZ
+
+Amazon RDS Hands On
+
+Amazon Aurora
+
+Amazon Aurora - Hands On
+
+RDS & Aurora Security
+
+RDS Proxy
+
+ElastiCache Overview
+
+ElastiCache Hands On
+
+ElastiCache Strategies
+
+Amazon MemoryDB for Redis - Overview
+
+Cuestionario 5: RDS, Aurora, & ElastiCache Quiz
 
 
-## Section: 
+## 6. Route 53
+
+
+
 
 
 ## Section: 
