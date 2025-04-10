@@ -2,13 +2,11 @@
 
 https://www.udemy.com/course/aws-certified-developer-associate-dva-c01
 
-**Note**: 
+**Note**: Let's try this Udemy course integrating the concepts with these two technologies:
 
-Let's try this Udemy course integrating the concepts with these two technologies:
+a) AWS SDK for .NET
 
-AWS SDK for .NET
-
-.NET Aspire 9.2
+b) .NET Aspire 9.2
 
 ## 1. IAM and AWS CLI
 
