@@ -562,9 +562,67 @@ SQS vs SNS vs Kinesis
 
 Cuestionario 16: Messaging & Integration Quiz
 
-
 ## 17. AWS Monitoring and Audit: CloudWatch, X-Ray and CloudTrail
 
+AWS Monitoring - Section Introduction
+
+Monitoring Overview in AWS
+
+CloudWatch Metrics
+
+CloudWatch Custom Metrics
+
+CloudWatch Logs
+
+CloudWatch Logs - Hands On
+
+CloudWatch Logs - Live Tail - Hands On
+
+CloudWatch Agent & CloudWatch Logs Agent
+
+CloudWatch Logs - Metric Filters
+
+CloudWatch Logs - Metric Filters Hands On
+
+CloudWatch Alarms
+
+CloudWatch Alarms Hands On
+
+CloudWatch Synthetics
+
+Amazon EventBridge
+
+Amazon EventBridge - Hands On
+
+Amazon EventBridge - Multi-Account Aggregation
+
+X-Ray Overview
+
+X-Ray Hands On
+
+X-Ray: Instrumentation and Concepts
+
+X-Ray: Sampling Rules
+
+X-Ray APIs
+
+X-Ray with Beanstalk
+
+X-Ray & ECS
+
+AWS Distro for OpenTelemetry
+
+CloudTrail
+
+CloudTrail Hands On
+
+CloudTrail - EventBridge Integration
+
+CloudTrail vs CloudWatch vs X-Ray
+
+AWS Quick Clean-Up
+
+Cuestionario 17: Monitoring & Audit Quiz
 
 ## 18.
 
