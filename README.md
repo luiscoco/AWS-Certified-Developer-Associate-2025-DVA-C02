@@ -1,6 +1,14 @@
-# AWS-Certified-Developer-Associate-2025-DVA-C02
+# AWS Certified Developer Associate 2025 (DVA-C02)
 
 https://www.udemy.com/course/aws-certified-developer-associate-dva-c01
+
+**Note**: 
+
+Let's try this Udemy course integrating the concepts with these two technologies:
+
+AWS SDK for .NET
+
+.NET Aspire 9.2
 
 ## 1. IAM and AWS CLI
 
@@ -266,10 +274,27 @@ S3 Storage Classes Hands On
 
 Cuestionario 8: Amazon S3 Quiz
 
-## 9.
+## 9. AWS CLI, SDK, IAM Roles and Policies
 
+AWS EC2 Instance Metadata
 
-## 10. 
+AWS EC2 Instance Metadata - Hands On
+
+AWS CLI Profiles
+
+AWS CLI with MFA
+
+AWS SDK Overview
+
+Exponential Backoff & Service Limit Increase
+
+AWS Credentials Provider & Chain
+
+AWS Signature v4 Signing (Sigv4)
+
+Cuestionario 9: AWS IAM, CLI, & SDK Quiz
+
+## 10. Advanced Amazon S3
 
 
 ## 11.
