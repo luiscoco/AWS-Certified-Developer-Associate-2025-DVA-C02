@@ -266,13 +266,34 @@ S3 Storage Classes Hands On
 
 Cuestionario 8: Amazon S3 Quiz
 
-## Section: 
+## 9.
 
 
-## Section: 
+## 10. 
 
 
-## Section: 
+## 11.
+
+
+## 11.
+
+
+## 11.
+
+
+## 11.
+
+
+## 11.
+
+
+## 11.
+
+
+## 11.
+
+
+## 11.
 
 
 
