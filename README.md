@@ -915,7 +915,47 @@ Cognito User Pools vs Cognito Identity Pools
 
 Cuestionario 24: Cognito Quiz
 
-## 25. 
+## 25. Step Functions
+
+Step Functions Overview
+
+Step Functions - Hands On
+
+Step Functions - Invoke Lambda - Hands On
+
+Step Functions - Error Handling
+
+Step Functions - Error Handling Hands On
+
+Step Functions - Wait For Task Token
+
+Step Functions - Activity Tasks
+
+Step Functions - Standard vs Express
+
+AppSync Overview
+
+AppSync Hands On
+
+AWS Amplify
+
+AWS Amplify - Hands On
+
+Cuestionario 25: Other Serverless Quiz
+
+## 26. 
+
+STS Overview
+
+Advanced IAM
+
+Granting a User Permissions to Pass a Role to an AWS Service
+
+AWS Directory Services
+
+Cuestionario 26: Advanced IAM Quiz
+
+## 27. 
 
 
 
