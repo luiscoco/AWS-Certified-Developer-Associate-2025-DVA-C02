@@ -855,7 +855,7 @@ CodeGuru - Agent Configuration
 
 Cuestionario 21: AWS CICD Quiz
 
-## 22. SAM
+## 22. Serverless Application Model (SAM)
 
 AWS SAM - Section Introduction
 
@@ -881,7 +881,7 @@ SAM - Multiple Environments
 
 Cuestionario 22: SAM Quiz
 
-## 23. CDK
+## 23. Cloud Development Kit  (CDK)
 
 CDK Overview
 
@@ -914,8 +914,6 @@ Cognito Identity Pools Hands On
 Cognito User Pools vs Cognito Identity Pools
 
 Cuestionario 24: Cognito Quiz
-
-
 
 ## 25. 
 
