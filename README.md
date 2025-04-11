@@ -855,6 +855,71 @@ CodeGuru - Agent Configuration
 
 Cuestionario 21: AWS CICD Quiz
 
-## 22. 
+## 22. SAM
+
+AWS SAM - Section Introduction
+
+SAM Overview
+
+Installing the SAM CLI
+
+Creating first SAM Project
+
+Deploying SAM Project
+
+SAM API Gateway
+
+SAM DynamoDB
+
+SAM Policy Templates
+
+SAM with CodeDeploy
+
+SAM - Local Capabilities
+
+SAM - Multiple Environments
+
+Cuestionario 22: SAM Quiz
+
+## 23. CDK
+
+CDK Overview
+
+CDK - Hands On
+
+CDK - Constructs
+
+CDK - Commands & Bootstraping
+
+CDK - Unit Testing
+
+Cuestionario 23: CDK Quiz
+
+## 24. Cognito
+
+Cognito Overview
+
+Cognito User Pools
+
+Cognito User Pools Hands On
+
+Cognito User Pools - Others
+
+Application Load Balancer - User Authentication
+
+Cognito Identity Pools
+
+Cognito Identity Pools Hands On
+
+Cognito User Pools vs Cognito Identity Pools
+
+Cuestionario 24: Cognito Quiz
+
+
+
+## 25. 
+
+
+
 
 
