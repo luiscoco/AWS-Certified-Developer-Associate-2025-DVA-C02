@@ -48,12 +48,23 @@ b) .NET Aspire 9.2
 
 19. AWS Serverless – Dynamo DB
 
-20. 
+20. AWS CI/CD – CodeCommit, CodePipeline, CodeBuild, CodeDeploy
 
+21. Serverless Application Model (SAM)
+
+22. Cloud Development Kit  (CDK)
+
+23. Cognito
+
+24. Step Functions
+
+25. Security Token Service (STS)
+
+26. Security
+
+27. Other Services
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 
 ## 1. IAM and AWS CLI
 
