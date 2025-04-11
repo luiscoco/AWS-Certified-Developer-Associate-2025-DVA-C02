@@ -771,5 +771,54 @@ DynamoDB Security & Other
 
 Cuestionario 19: DynamoDB Quiz
 
+## 20. AWS Serverless – API Gateway
+
+API Gateway - Section Introduction
+
+API Gateway Overview
+
+API Gateway Basics Hands On
+
+API Gateway Stages and Deployment
+
+API Gateway Stages and Deployment Hands On
+
+API Gateway Stages Configurations Hands On
+
+API Gateway Canary Deployments
+
+API Gateway Canary Deployments Hands On
+
+API Gateway Integration Types & Mappings
+
+API Gateway Mapping Templates Hands On
+
+API Gateway Open API
+
+API Gateway Open API - Hands On
+
+API Gateway Caching
+
+API Gateway Usage Plans & API Keys
+
+API Gateway Monitoring, Logging and Tracing
+
+API Gateway CORS
+
+API Gateway Authentication and Authorization
+
+API Gateway Authentication and Authorization - Hands On
+
+API Gateway REST API vs HTTP API
+
+API Gateway Websocket API
+
+API Gateway - Architecture
+
+Cuestionario 20: API Gateway Quiz
+
+## 21. AWS CI/CD – CodeCommit, CodePipeline, CodeBuild, CodeDeploy
+
+
 
 
