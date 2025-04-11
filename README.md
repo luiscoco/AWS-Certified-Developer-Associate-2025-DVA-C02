@@ -1001,7 +1001,34 @@ AWS Nitro Enclaves
 
 Cuestionario 27: AWS Security & Encryption Quiz
 
-## 28. 
+## 28. AWS Other Services
+
+AWS Other Services - Section Introduction
+
+AWS SES
+
+Amazon OpenSearch Service - Overview
+
+Amazon Athena - Overview
+
+Amazon Athena - Hands On
+
+Amazon MSK - Overview
+
+Amazon Certificate Manager (ACM)
+
+Amazon Certificate Manager (ACM) Hands On
+
+ACM Private CA - Overview
+
+Amazon Macie
+
+AWS AppConfig - Overview
+
+CloudWatch Evidently
+
+Cuestionario 28: Other Services Quiz
+
 
 
 
