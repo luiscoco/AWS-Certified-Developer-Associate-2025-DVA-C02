@@ -819,6 +819,42 @@ Cuestionario 20: API Gateway Quiz
 
 ## 21. AWS CI/CD – CodeCommit, CodePipeline, CodeBuild, CodeDeploy
 
+AWS CICD - Section Introduction
 
+Introduction to CICD in AWS
+
+CodeCommit Overview
+
+IMPORTANT: CodeCommit Discontinuation
+
+GitHub - Hands On
+
+CodePipeline Overview
+
+CodePipeline - Hands On - Prerequisite
+
+CodePipeline - Hands On
+
+CodeBuild Overview
+
+CodeBuild Hands On Part I
+
+CodeBuild Hands On Part 2
+
+CodeDeploy Overview
+
+CodeDeploy Hands On
+
+CodeDeploy for EC2 and ASG
+
+CodeArtifact - Overview
+
+CodeGuru - Overview
+
+CodeGuru - Agent Configuration
+
+Cuestionario 21: AWS CICD Quiz
+
+## 22. 
 
 
