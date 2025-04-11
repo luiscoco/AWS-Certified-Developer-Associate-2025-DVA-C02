@@ -943,7 +943,7 @@ AWS Amplify - Hands On
 
 Cuestionario 25: Other Serverless Quiz
 
-## 26. 
+## 26. Security Token Service (STS)
 
 STS Overview
 
@@ -955,7 +955,57 @@ AWS Directory Services
 
 Cuestionario 26: Advanced IAM Quiz
 
-## 27. 
+## 27. Security
+
+AWS Security - Section Introduction
+
+Encryption 101
+
+KMS Overview
+
+KMS Hands On w/ CLI
+
+KMS Encryption Patterns and Envelope Encryption
+
+Encryption SDK CLI Hands On
+
+KMS Limits
+
+KMS and AWS Lambda Practice
+
+S3 Bucket Key
+
+KMS Key Policies & IAM Principals
+
+CloudHSM Overview
+
+SSM Parameter Store Overview
+
+SSM Parameter Store Hands On (CLI)
+
+SSM Parameter Store Hands On (AWS Lambda)
+
+Secrets Manager - Overview
+
+Secrets Manager - Hands On
+
+SSM Parameter Store vs Secrets Manager
+
+CloudFormation - Secrets Manager & SSM Integration
+
+CloudWatch Logs Encryption
+
+CodeBuild Security
+
+AWS Nitro Enclaves
+
+Cuestionario 27: AWS Security & Encryption Quiz
+
+## 28. 
+
+
+
+
 
 
 
